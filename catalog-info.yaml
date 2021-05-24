@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "vvfd"
+  description: "vfdvfds"
+  annotations:
+    github.com/project-slug: EitanBe/test1
+    backstage.io/techdocs-ref: url:https://github.com/EitanBe/test1
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "sadfsaf"

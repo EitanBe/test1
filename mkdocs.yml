@@ -1,0 +1,8 @@
+site_name: "vvfd"
+site_description: "vfdvfds"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
